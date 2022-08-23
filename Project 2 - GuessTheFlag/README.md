@@ -16,17 +16,17 @@
 ## Day 1
 
 - Introduction and Project Setup
-- Using Stacks(VStack, HStack and ZStack) to arrange views
-- Colors and Frames
-- Gradients (Linear, Angular and Radial)
+- Arranging views with stacks : VStack, HStack and ZStack
+- Colors and frames
+- Gradients: Linear, Angular and Radial
 - Buttons and Images
 - Showing alert messages
 
 ## Day 2
 
 - Stacking up the buttons 
-- Showing player's score using alert
-- Styling the flags
+- Using alert to showing player's score 
+- Styling flags
 
 ## Day 3
 
