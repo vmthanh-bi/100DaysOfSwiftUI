@@ -44,10 +44,10 @@ Added Text to the VStack and called the variable .formattedLaunchDate
 
 >2. Modify AstronautView to show all the missions this astronaut flew on.
 
-Used the complete Missions array to make a for loop and check if the current astronaut appears in anyone, if so, we add that mission to screen.
+Used the complete Missions array to make a for loop in order to check if the current astronaut appears in any. If so, we add that mission to screen.
 
-In the ForEach loop of MissionsIns, I created a simple view, where the name of the mission is displayed with the image of the Mission.
+In the ForEach loop of Missions, I created a view for each mission that displays its name and image.
 
 >3. Make a bar button in ContentView that toggles between showing launch dates and showing crew names.
 
-The tricky challenge, but very easy, simple button in the navigation, 2 State vars, one for the toogle of bool and the other one to change the button name. Get the Full name of the crewMember with a new func, and with the toogle we can set an IF that shows or hide the launch date, and make the names appear or disappear.
+Added a button in the navigation a 2 @State variables, one toogles a bool and the other changes the button name. Get the Full name of the crewMember with a new func, and with the toogle we can set an IF that shows or hide the launch date, and make the names appear or disappear. I created a new function to return the full name of a crew member and used the toggle to make an IF statement that alternates between showing or hiding the names or dates.
