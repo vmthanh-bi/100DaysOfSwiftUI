@@ -44,9 +44,7 @@ Added Text to the VStack and called the variable .formattedLaunchDate
 
 >2. Modify AstronautView to show all the missions this astronaut flew on.
 
-Used the complete Missions array to make a for loop in order to check if the current astronaut appears in any. If so, we add that mission to screen.
-
-In the ForEach loop of Missions, I created a view for each mission that displays its name and image.
+Used the complete Missions array to make a for loop in order to check if the current astronaut appears in any. If so, we add that mission to screen. In the ForEach loop of Missions, I created a view for each mission that displays its name and image.
 
 >3. Make a bar button in ContentView that toggles between showing launch dates and showing crew names.
 
