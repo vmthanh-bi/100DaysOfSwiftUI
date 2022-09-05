@@ -28,6 +28,7 @@ Day 49: https://www.hackingwithswift.com/100/swiftui/49
 - Encoding and Decoding the ObservedObject class object using CodingKeys
 - Sending a POST HTTP Networking Request using URLSession
 
+## Day 4
 ### Challenges
 
 >1. Our address fields are currently considered valid if they contain anything, even if it’s just only whitespace. Improve the validation to make sure a string of pure whitespace is invalid.
