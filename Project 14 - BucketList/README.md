@@ -19,32 +19,32 @@ Day 68: https://www.hackingwithswift.com/100/swiftui/68
 
 ## Day 1
 
-- Adding conformance of Comparable Protocol for custom types
-- Writting data to the documents directory using the FileManager
+- Adding conformance of `Comparable` `Protocol` for custom types
+- Writing data to the documents directory using the `FileManager`
 - Switching view states using Enums
 
 ## Day 2
 
-- Integrating MapKit with SwiftUI
-- Communicating with MapKit Coordinator and using MapKit Annotations
-- Integrating TouchID and FaceID with SwiftUI
+- Integrating `MapKit`
+- Communicating with `MapKit` `Coordinator` and using `MapKit` `Annotations`
+- Integrating `TouchID` and `FaceID` with SwiftUI
 
 ## Day 3
 
-- Working on advanced MapView concepts:  `MKPointAnnotations` using Custom Bindings
-- Customising MKMapView annotations and showing details of the annotations with the help of custom alert
+- Working on more advanced `MapView` concepts:  `MKPointAnnotations` using Custom Bindings
+- Customising `MKMapView` annotations and showing details of those annotations through custom alert
 
 ## Day 4
 
-- Extending existing types to support ObservableObject
-- Downloading data using URLSession from the Wikipedia API
-- Sorting downloaded data by conforming the type to Comparable protocol
+- Extending existing types to support `ObservableObject`
+- Downloading data using `URLSession` from the Wikipedia API
+- Sorting downloaded data by conforming the type to `Comparable` protocol
 
 ## Day 5
 
-- Conforming class to MKPointAnnotation and Codable
-- Loading, saving and writing Codable data to the documents directory with complete file protection
-- Authenticating user using FaceID and TouchID to unlock data
+- Conforming class to `MKPointAnnotation` and `Codable`
+- Loading, saving and writing `Codable` data to the documents directory with complete file protection
+- Authenticating user using `FaceID` and `TouchID` to unlock data
 
 ## Day 6
 ### Challenges
