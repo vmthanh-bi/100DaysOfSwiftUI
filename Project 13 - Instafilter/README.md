@@ -7,7 +7,7 @@ Day 62: https://www.hackingwithswift.com/100/swiftui/62
 ## Topics
 
 - Integrating with `UIKit`
-- Coordinators in `SwiftUI`
+- Coordinators in SwiftUI
 - Core Image Framework
   - `CoreImage`
   - `CIFilter`
@@ -24,17 +24,17 @@ Day 62: https://www.hackingwithswift.com/100/swiftui/62
 ## Day 2
 
 - Integrating `CoreImage` with `SwiftUI`
-- Wrapping a `UIViewController` (UIImagePickerController) in a `SwiftUI` `View`
+- Wrapping a `UIViewController` (UIImagePickerController) in a SwiftUI View
 
 ## Day 3
 
-- Using coordinators to manage `SwiftUI` `View Controllers` to intergrate `UIKit` with `SwiftUI`)
+- Using coordinators to manage SwiftUI View Controllers to intergrate `UIKit` with SwiftUI)
 - Saving images in User's Photo Library
 
 ## Day 4
 
 - Building a basic UI
-- Importing an image into `SwiftUI` using `UIImagePickerController`
+- Importing an image into SwiftUI using `UIImagePickerController`
 - Basic image filtering using `CoreImage`
 
 ## Day 5
