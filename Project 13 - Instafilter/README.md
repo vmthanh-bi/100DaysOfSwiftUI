@@ -28,8 +28,8 @@ Day 62: https://www.hackingwithswift.com/100/swiftui/62
 
 ## Day 3
 
-- Using coordinators to manage SwiftUI View Controllers to intergrate `UIKit` with SwiftUI)
-- Saving images in User's Photo Library
+- Using coordinators to manage SwiftUI View Controllers to intergrate `UIKit` with SwiftUI
+- Saving images in user's Photo Library
 
 ## Day 4
 
