@@ -56,6 +56,7 @@ Day 79: https://www.hackingwithswift.com/100/swiftui/79
 - Encapsulating objects and working with `AccessControl`
 - Posting `UserNotifications`
 
+## Day 7
 ### Challenges
 
 >1. Add an icon to the “Everyone” screen showing whether a prospect was contacted or not.
