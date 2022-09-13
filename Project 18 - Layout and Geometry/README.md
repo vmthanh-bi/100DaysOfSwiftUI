@@ -20,8 +20,11 @@ Day 62: https://www.hackingwithswift.com/100/swiftui/62
 ## Day 2
 
 - Absolute Positioning in SwiftUI using `position()` and `offset()`
-- Understanding frames and coordinates in GeometryReader (Global, Custom and Local Center)
-- ScrollView effects with the help of GeometryReader
+- Understanding frames and coordinates in `GeometryReader`
+  - Global
+  - Custom
+  - Local Center
+- ScrollView effects using `GeometryReader`
 
 ## Day 3
 ### Challenges
