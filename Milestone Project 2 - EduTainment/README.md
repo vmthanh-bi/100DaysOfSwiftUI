@@ -5,14 +5,6 @@ Edutainment apps are educational at their code, but ideally have enough playfuln
 
 Day 35: https://www.hackingwithswift.com/100/swiftui/35
 
-## Topics
-
-- Arrays
-- State
-- Views
-- Images
-- Text
-
 ## Challenge
 
 Breaking it down:
