@@ -28,53 +28,111 @@ This course has a final goal that can be reached after conquering all of the afo
 the student obtains a certificate - with merit if they score 80% or more and with distinction if they score 95% or more. Achieving such a feat is 
 without a doubt not easy and is definitely a great way to comemorate all of this hard work.
 
-## Projects
-These are the projects I have completed for this course.
+## The Course
 
-[Project 1](Project%201%20-%20WeSplit) - *WeSplit*
+### Days 1 - 14: Introduction to Swift
+The first 14 days provided a gentle warm up for my SwiftUI learning as I covered the fundamentals of the Swift programming language. I worked through a selection of tutorials every day, and there was some optional extra reading afterwards I got to read through to even dig deeper.
 
-[Challenge: Volume Converter](Challenge%20Day%20-%20VolumeConverter) - *ChallengeDay: VolumeConverter*
+### Day 15: Consolidation I
+I just learned a lot about Swift in only 14 days, so before I continue it's important I reflect on what you've learned so far.
 
-[Project 2](Project%202%20-%20GuessTheFlag) - *GuessTheFlag*
+### Days 16 - 24: Starting SwiftUI
+Now that I’ve mastered the basics of Swift, in these days I’ll start building real SwiftUI apps using what I learned.
 
-[Project 3](Project%203%20-%20ViewsAndModifiers) - *Views and Modifiers*
+- [Project 1](Project%201%20-%20WeSplit) - *WeSplit*
 
-[Milestone Project 1-3](Milestone%20Project%201%20-%20BrainTrain) - *Brain Train*
+- [Challenge: Volume Converter](Challenge%20Day%20-%20VolumeConverter) - *ChallengeDay: VolumeConverter*
 
-[Project 4](Project%204%20-%20BetterRest) - *BetterRest*
+- [Project 2](Project%202%20-%20GuessTheFlag) - *GuessTheFlag*
 
-[Project 5](Project%205%20-%20WordScramble) - *WordScramble*
+- [Project 3](Project%203%20-%20ViewsAndModifiers) - *Views and Modifiers*
 
-[Project 6](Project%206%20-%20Animations) - *Animations*
 
-[Milestone Project 4-6](Milestone%20Project%202%20-%20EduTainment) - *EduTainment*
+### Day 25: Consolidation II
 
-[Project 7](Project%207%20-%20iExpense) - *iExpense*
+Reviewing what I’ve learned from days 16 - 24, and creating a project on these topics.
 
-[Project 8](Project%208%20-%20Moonshot) - *MoonShot*
+- [Milestone Project 1-3](Milestone%20Project%201%20-%20BrainTrain) - *Brain Train*
 
-[Project 9](Project%209%20-%20Drawing) - *Drawing*
 
-[Milestone Project 7-9](Milestone%20Project%203%20-%20Habits) - *Habits*
+### Days 26 - 34: Expanding your skills
 
-[Project 10](Project%2010%20-%20CupcakeCorner) - *CupcakeCorner*
+In these next three projects, I developed my SwiftUI skills in new directions, while also practicing the fundamentals.
 
-[Project 11](Project%2011%20-%20Bookworm) - *Bookworm*
+- [Project 4](Project%204%20-%20BetterRest) - *BetterRest*
 
-[Project 12](Project%2012%20-%20CoreDataProject) - *Core Data Project*
+- [Project 5](Project%205%20-%20WordScramble) - *WordScramble*
 
-[Milestone Project 10-12](MilestoneProject10-12) - *Users List app*
+- [Project 6](Project%206%20-%20Animations) - *Animations*
 
-[Project 13](Project%2013%20-%20Instafilter) - *Instafilter*
 
-[Project 14](Project%2014%20-%20BucketList) - *BucketList*
+### Day 35: Consolidation III
 
-[Project 15](Project%2015%20-%20Accessibility) - *Accessibility*
+Reviewing what I’ve learned from days 26 - 34, and creating a project covering these topics.
 
-[Milestone Project 13-15](Milestone%20Project%205%20-%20NameReminder) - *NameReminder*
+- [Milestone Project 4-6](Milestone%20Project%202%20-%20EduTainment) - *EduTainment*
 
-[Project 16](Project%2016%20-%20HotProspects) - *HotProspects*
 
-[Project 17](Project%2017%20-%20Flashzilla) - *Flashzilla*
+### Days 36-46: Scaling up to bigger apps
 
-[Project 18](Project%2018%20-%20LayoutAndGeometry) - *Layout and Geometry*
+Now that my core SwiftUI skills are strong, I pushed past the basics and started building bigger apps.
+
+- [Project 7](Project%207%20-%20iExpense) - *iExpense*
+
+- [Project 8](Project%208%20-%20Moonshot) - *MoonShot*
+
+- [Project 9](Project%209%20-%20Drawing) - *Drawing*
+
+
+### Days 47-48: Consolidation IV
+
+Reviewing what I have learned from days 36 - 46, and creating a project covering these topics.
+
+- [Milestone Project 7-9](Milestone%20Project%203%20-%20Habits) - *Habits*
+
+
+### Days 49-59: Focus on data
+
+In these projects, I started looking more carefully at how to send, retrieve, and store data in SwiftUI apps.
+
+- [Project 10](Project%2010%20-%20CupcakeCorner) - *CupcakeCorner*
+
+- [Project 11](Project%2011%20-%20Bookworm) - *Bookworm*
+
+- [Project 12](Project%2012%20-%20CoreDataProject) - *Core Data Project*
+
+
+### Days 60-61: Consolidation V
+
+Reviewing what I have learned from days 49 - 59, and creating a project covering these topics.
+
+- [Milestone Project 10-12](MilestoneProject10-12) - *Users List app*
+
+
+### Days 62-76: Views and view controllers
+
+In these projects, the difficulty started to ramp up as I learned how to integrate code from frameworks outside of SwiftUI, including UIKit and MapKit.
+
+- [Project 13](Project%2013%20-%20Instafilter) - *Instafilter*
+
+- [Project 14](Project%2014%20-%20BucketList) - *BucketList*
+
+- [Project 15](Project%2015%20-%20Accessibility) - *Accessibility*
+
+
+### Days 77-78: Consolidation VI
+
+Reviewing what I have learned from days 62 - 76, and creating a project covering these topics.
+
+- [Milestone Project 13-15](Milestone%20Project%205%20-%20NameReminder) - *NameReminder*
+
+
+### Days 79-94: Controlling UI flow
+
+In these projects, I built my biggest apps yet, while also exploring more ways to let the user interact with my apps: tab bars, gestures, haptics, and more.
+
+- [Project 16](Project%2016%20-%20HotProspects) - *HotProspects*
+
+- [Project 17](Project%2017%20-%20Flashzilla) - *Flashzilla*
+
+- [Project 18](Project%2018%20-%20LayoutAndGeometry) - *Layout and Geometry*
