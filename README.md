@@ -73,7 +73,7 @@ Reviewing what I’ve learned from days 26 - 34, and creating a project covering
 - [Milestone Project 4-6](Milestone%20Project%202%20-%20EduTainment) - *EduTainment*
 
 
-### Days 36-46: Scaling up to bigger apps
+### Days 36 - 46: Scaling up to bigger apps
 
 Now that my core SwiftUI skills are strong, I pushed past the basics and started building bigger apps.
 
@@ -84,14 +84,14 @@ Now that my core SwiftUI skills are strong, I pushed past the basics and started
 - [Project 9](Project%209%20-%20Drawing) - *Drawing*
 
 
-### Days 47-48: Consolidation IV
+### Days 47 - 48: Consolidation IV
 
 Reviewing what I have learned from days 36 - 46, and creating a project covering these topics.
 
 - [Milestone Project 7-9](Milestone%20Project%203%20-%20Habits) - *Habits*
 
 
-### Days 49-59: Focus on data
+### Days 49 - 59: Focus on data
 
 In these projects, I started looking more carefully at how to send, retrieve, and store data in SwiftUI apps.
 
@@ -102,14 +102,14 @@ In these projects, I started looking more carefully at how to send, retrieve, an
 - [Project 12](Project%2012%20-%20CoreDataProject) - *Core Data Project*
 
 
-### Days 60-61: Consolidation V
+### Days 60 - 61: Consolidation V
 
 Reviewing what I have learned from days 49 - 59, and creating a project covering these topics.
 
 - [Milestone Project 10-12](MilestoneProject10-12) - *Users List app*
 
 
-### Days 62-76: Views and view controllers
+### Days 62 - 76: Views and view controllers
 
 In these projects, the difficulty started to ramp up as I learned how to integrate code from frameworks outside of SwiftUI, including UIKit and MapKit.
 
@@ -120,14 +120,14 @@ In these projects, the difficulty started to ramp up as I learned how to integra
 - [Project 15](Project%2015%20-%20Accessibility) - *Accessibility*
 
 
-### Days 77-78: Consolidation VI
+### Days 77 - 78: Consolidation VI
 
 Reviewing what I have learned from days 62 - 76, and creating a project covering these topics.
 
 - [Milestone Project 13-15](Milestone%20Project%205%20-%20NameReminder) - *NameReminder*
 
 
-### Days 79-94: Controlling UI flow
+### Days 79 - 94: Controlling UI flow
 
 In these projects, I built my biggest apps yet, while also exploring more ways to let the user interact with my apps: tab bars, gestures, haptics, and more.
 
