@@ -1,7 +1,7 @@
 # 100 Days of SwiftUI
 This repository is dedicated to documenting my progress of the Hacking With Swift's course "100 Days of SwiftUI" by Paul Hudson.
 
-If you would like to try this course yourself, you can find take it for free at: https://www.hackingwithswift.com/100/swiftui
+If you would like to try this course yourself, you can find at: https://www.hackingwithswift.com/100/swiftui
 
 ## Current Status
 🚨 Latest update: 20/10/22
