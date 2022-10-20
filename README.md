@@ -143,4 +143,4 @@ In these projects, I built my biggest apps yet, while also exploring more ways t
 
 This entire process has been long and challenging while also being extremely insightful and interesting. I want to give my thanks to Paul Hudson for creating this course that has made it so much easier to learn and understand the beauty and nuances that come with the exciting language of SwiftUI. Not only did I gain more knowledge in SwiftUI itself, I also learned more about the time, effort and patience that comes with building more intricate and complex apps. Now more than ever, I feel most complete as an iOS developer. I am proud to have achieved as much as I did and will be sure to use all this knowledge to keep improving and coming out with amazing apps! 
 
-**Tony Vu**
+*Tony Vu*
