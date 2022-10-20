@@ -141,4 +141,4 @@ In these projects, I built my biggest apps yet, while also exploring more ways t
 
 ### Thank you for taking your time to see all that I've learned about the exciting language of SwiftUI. 
 
-This process has been challenging while also extremely insightful and interesting. I want to give my thanks to Paul Hudson for creating this course that has made it so much easier to learn and understand the beauty and nuances that come with SwiftUI. I am proud to have achieved as much as I did and will be sure to use all this knowledge to keep improving and making amazing apps! 
+This process has been challenging while also being extremely insightful and interesting. I want to give my thanks to Paul Hudson for creating this course that has made it so much easier to learn and understand the beauty and nuances that come with SwiftUI. I am proud to have achieved as much as I did and will be sure to use all this knowledge to keep improving and making amazing apps! 
