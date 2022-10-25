@@ -46,3 +46,8 @@ Created a function for the view to set the foreground color of the amount, retur
 >3. Add some validation to the Save button in AddView. If you enter “fish” or another thing that can’t be converted to an integer, show an alert telling users what the problem is.
 
 Added an alert to the Sheet so that, when input can’t be converted to an integer, the code triggers the amountError into true and triggers the Alert.
+
+## Screenshots
+
+<img src="Screenshots/Screenshot 1.png" width="300"/> <img src="Screenshots/Screenshot 2.png" width="300"/> 
+<img src="Screenshots/Screenshot 3.png" width="300"/> 
