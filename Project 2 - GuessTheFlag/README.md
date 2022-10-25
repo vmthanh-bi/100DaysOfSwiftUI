@@ -43,3 +43,8 @@ Added the last VStack to make 2 Texts - one for placing “Score” and one to d
 >3. When someone chooses the wrong flag, tell them their mistake in your alert message – something like “Wrong! That’s the flag of France,” for example.
 
 Changed the message when the user chooses a wrong answer so the alert to the name of the wrong flag.
+
+## Screenshots
+
+<img src="Screenshots/Screenshot 1.png" width="300"/> <img src="Screenshots/Screenshot 2.png" width="300"/> 
+<img src="Screenshots/Screenshot 3.png" width="300"/>
