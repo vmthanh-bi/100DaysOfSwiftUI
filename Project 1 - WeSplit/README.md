@@ -46,3 +46,8 @@ Added a new Section with the header text, and displayed the total amount. The am
 > 3.Change the “Number of people” picker to be a text field, making sure to use the correct keyboard type.
 
 Changed the picker to text field, and adding the property .keyboardType(.decimalPad) to only let the user type numbers.
+
+## Screenshots
+
+<img src="Screenshots/Screenshot 1.png" width="300"/> <img src="Screenshots/Screenshot 2.png" width="300"/> 
+<img src="Screenshots/Screenshot 3.png" width="300"/> <img src="Screenshots/Screenshot 4.png" width="300"/>
