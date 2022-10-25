@@ -77,3 +77,5 @@ so that the offset changes the color of the cards relative to the center rather 
 <img src="Screenshots/Screenshot 1.png" width="500"/> <img src="Screenshots/Screenshot 2.png" width="500"/> 
 <img src="Screenshots/Screenshot 3.png" width="500"/> <img src="Screenshots/Screenshot 4.png" width="500"/>
 <img src="Screenshots/Screenshot 5.png" width="500"/> <img src="Screenshots/Screenshot 6.png" width="500"/> 
+<img src="Screenshots/Screenshot 7.png" width="500"/> <img src="Screenshots/Screenshot 8.png" width="500"/>
+<img src="Screenshots/Screenshot 9.png" width="500"/>
