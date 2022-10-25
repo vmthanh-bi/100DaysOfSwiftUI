@@ -40,3 +40,8 @@ Added a left bar button to change to a new word.
 >3. Put a text view below the List so you can track and show the player’s score for a given root word. How you calculate score is down to you, but something involving number of words and their letter count would be reasonable.
 
 Added a VStack containing two Texts, one for the title and one for the score. The score value is changed every time user adds a new word to calculate the new score.
+
+## Screenshots
+
+<img src="Screenshots/Screenshot 1.png" width="300"/> <img src="Screenshots/Screenshot 2.png" width="300"/> 
+<img src="Screenshots/Screenshot 3.png" width="300"/> <img src="Screenshots/Screenshot 4.png" width="300"/>
