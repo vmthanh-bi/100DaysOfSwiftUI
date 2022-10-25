@@ -49,3 +49,10 @@ Used the complete Missions array to make a for loop in order to check if the cur
 >3. Make a bar button in ContentView that toggles between showing launch dates and showing crew names.
 
 Added a button in the navigation a 2 @State variables, one toogles a bool and the other changes the button name. Get the Full name of the crewMember with a new func, and with the toogle we can set an IF that shows or hide the launch date, and make the names appear or disappear. I created a new function to return the full name of a crew member and used the toggle to make an IF statement that alternates between showing or hiding the names or dates.
+
+## Screenshots
+
+<img src="Screenshots/Screenshot 1.png" width="300"/> <img src="Screenshots/Screenshot 2.png" width="300"/> 
+<img src="Screenshots/Screenshot 3.png" width="300"/> <img src="Screenshots/Screenshot 4.png" width="300"/>
+<img src="Screenshots/Screenshot 5.png" width="300"/> <img src="Screenshots/Screenshot 6.png" width="300"/> 
+<img src="Screenshots/Screenshot 7.png" width="300"/>
