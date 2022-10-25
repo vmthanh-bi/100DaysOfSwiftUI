@@ -6,6 +6,16 @@ and track it however they want.
 
 Day 47: https://www.hackingwithswift.com/100/swiftui/47
 
+## Challenge
+
+At the very least, there should be a list of all activities they want to track, plus a form to add new activities – a title and description should be enough.
+
+For a bigger challenge, tapping one of the activities should show a detail screen with the description. For a tough challenge, make that detail screen contain how many times they have completed it, plus a button incrementing their completion count.
+
+And if you want to make the app really useful, use Codable and UserDefaults to load and save all your data.
+
+So, there are three levels to this app, and you can choose how far you want to go depending on how much time you have and how far you want to push yourself.
+
 ## Topics covered in the last three projects:
 
 - Why `@State` only works with structs.
@@ -30,16 +40,6 @@ Day 47: https://www.hackingwithswift.com/100/swiftui/47
 - Enabling Metal for drawing complex views using `drawingGroup()`.
 - Modifying blend modes and saturation.
 - Animating shapes with `animatableData` and `AnimatablePair`.
-
-## Challenge
-
-At the very least, there should be a list of all activities they want to track, plus a form to add new activities – a title and description should be enough.
-
-For a bigger challenge, tapping one of the activities should show a detail screen with the description. For a tough challenge, make that detail screen contain how many times they have completed it, plus a button incrementing their completion count.
-
-And if you want to make the app really useful, use Codable and UserDefaults to load and save all your data.
-
-So, there are three levels to this app, and you can choose how far you want to go depending on how much time you have and how far you want to push yourself.
 
 ## Screenshots
 
