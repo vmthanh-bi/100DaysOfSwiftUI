@@ -41,7 +41,7 @@ In Project 5 - WordScramble, added Offset Positioning
 
 In Project 5 - WordScramble, used `GeomateryReader` to add ScrollView Effect and a modifier that changes the color of the text
 
-### Screenshots
+## Screenshots
 
 <img src="Screenshots/Screenshot 1.png" width="300"/> <img src="Screenshots/Screenshot 2.png" width="300"/> 
 <img src="Screenshots/Screenshot 3.png" width="300"/>
