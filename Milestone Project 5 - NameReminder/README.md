@@ -6,21 +6,6 @@ a larger version of the picture.
 
 Day 77: https://www.hackingwithswift.com/100/swiftui/77
 
-## Topics covered in the last three projects:
-
-- How property wrappers become structs
-- Presenting confirmation dialogs with lots of buttons
-- Using Core Image to manipulate images
-- Integrating PHPickerViewController into SwiftUI
-- Writing coordinator classes that can act as delegates for image pickers
-- Integrating maps into SwiftUI
-- Dropping pins on maps
-- Saving images to the user’s photo library
-- Adding Comparable conformance to custom types
-- Finding and writing to the user’s documents directory
-- Enabling file encryption when writing
-- Authenticating users with Touch ID and Face ID
-
 ## Challenge
 
 Breaking it down, you should:
@@ -43,6 +28,21 @@ is fine, although you will need to add a custom conformance to Comparable to get
 If you do choose to use Core Data, make sure you don’t save the actual image into the database because that’s not efficient. Core Data or 
 not, the optimal thing to do is generate a new UUID for the image filename then write it to the documents directory, and store that UUID in
 your data model.
+
+## Topics covered in the last three projects:
+
+- How property wrappers become structs
+- Presenting confirmation dialogs with lots of buttons
+- Using Core Image to manipulate images
+- Integrating `PHPickerViewController` into SwiftUI
+- Writing coordinator classes that can act as delegates for image pickers
+- Integrating maps into SwiftUI
+- Dropping pins on maps
+- Saving images to the user’s photo library
+- Adding `Comparable` conformance to custom types
+- Finding and writing to the user’s documents directory
+- Enabling file encryption when writing
+- Authenticating users with Touch ID and Face ID
 
 ## Screenshots
 
