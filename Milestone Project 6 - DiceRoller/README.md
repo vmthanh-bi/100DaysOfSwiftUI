@@ -6,6 +6,29 @@ This project is an app that helps users roll dice then store the results they ha
 
 Day 95: https://www.hackingwithswift.com/100/swiftui/95
 
+## Challenge
+
+Breaking it down, you should:
+
+- Wrap PHPickerViewController so it can be used to select photos.
+
+- Detect when a new photo is imported, and immediately ask the user to name the photo.
+
+- Save that name and photo somewhere safe.
+
+- Show all names and photos in a list, sorted by name.
+
+- Create a detail screen that shows a picture full size.
+
+- Decide on a way to save all this data.
+
+You can use Core Data for this project if you want to, but it isn’t required – a simple JSON file written out to the documents directory
+is fine, although you will need to add a custom conformance to Comparable to get array sorting to work.
+
+If you do choose to use Core Data, make sure you don’t save the actual image into the database because that’s not efficient. Core Data or 
+not, the optimal thing to do is generate a new UUID for the image filename then write it to the documents directory, and store that UUID in
+your data model.
+
 ## Topics covered in the last three projects:
 
 - Reading environment values using `@EnvironmentObject`.
@@ -30,28 +53,6 @@ Day 95: https://www.hackingwithswift.com/100/swiftui/95
 - Absolutely positioning views using the `position()` modifier.
 - Using `GeometryReader` and `GeometryProxy` to make special effects.
 
-## Challenge
-
-Breaking it down, you should:
-
-- Wrap PHPickerViewController so it can be used to select photos.
-
-- Detect when a new photo is imported, and immediately ask the user to name the photo.
-
-- Save that name and photo somewhere safe.
-
-- Show all names and photos in a list, sorted by name.
-
-- Create a detail screen that shows a picture full size.
-
-- Decide on a way to save all this data.
-
-You can use Core Data for this project if you want to, but it isn’t required – a simple JSON file written out to the documents directory
-is fine, although you will need to add a custom conformance to Comparable to get array sorting to work.
-
-If you do choose to use Core Data, make sure you don’t save the actual image into the database because that’s not efficient. Core Data or 
-not, the optimal thing to do is generate a new UUID for the image filename then write it to the documents directory, and store that UUID in
-your data model.
 
 ## Screenshots
 
