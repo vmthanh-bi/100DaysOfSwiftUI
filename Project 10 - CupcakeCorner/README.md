@@ -47,4 +47,5 @@ Created a new class with ObservableObject and inserted the data struct of it wit
 
 <img src="Screenshots/Screenshot 1.png" width="300"/> <img src="Screenshots/Screenshot 2.png" width="300"/> 
 <img src="Screenshots/Screenshot 3.png" width="300"/> <img src="Screenshots/Screenshot 4.png" width="300"/>
-<img src="Screenshots/Screenshot 5.png" width="300"/> <img src="Screenshots/Screenshot 6.png" width="300"/> 
+<img src="Screenshots/Screenshot 5.png" width="300"/> <img src="Screenshots/Screenshot 6.png" width="300"/>
+<img src="Screenshots/Screenshot 7.png" width="300"/> 
