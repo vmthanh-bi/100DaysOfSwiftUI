@@ -45,4 +45,5 @@ Removed the calculate button, and modified the calculatedBedTime function to ret
 ## Screenshots
 
 <img src="Screenshots/Screenshot 1.png" width="300"/> <img src="Screenshots/Screenshot 2.png" width="300"/> 
-<img src="Screenshots/Screenshot 3.png" width="300"/>
+
+<img src="Screenshots/Screenshot 3.png" width="700"/>
