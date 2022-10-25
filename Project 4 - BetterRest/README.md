@@ -41,3 +41,8 @@ Replaced the stepper with a picker, with a small modification to the IF statemen
 >3. Change the user interface so that it always shows their recommended bedtime using a nice and large font. You should be able to remove the “Calculate” button entirely.
 
 Removed the calculate button, and modified the calculatedBedTime function to return a STRING. The new function will now use it in a Text component to show the result on the screen.
+
+## Screenshots
+
+<img src="Screenshots/Screenshot 1.png" width="300"/> <img src="Screenshots/Screenshot 2.png" width="300"/> 
+<img src="Screenshots/Screenshot 3.png" width="300"/>
