@@ -72,3 +72,9 @@ Used the usual `FileManager` class from previous projects and switched all the l
 - Added button in navigation bar to deploy the action sheet
 - Added comparable to prospect
 - Added sorting options for the user to choose and sort the array accordingly
+
+## Screenshots
+
+<img src="Screenshots/Screenshot 1.png" width="300"/> <img src="Screenshots/Screenshot 2.png" width="300"/> 
+<img src="Screenshots/Screenshot 3.png" width="300"/> <img src="Screenshots/Screenshot 4.png" width="300"/>
+<img src="Screenshots/Screenshot 5.png" width="300"/> <img src="Screenshots/Screenshot 6.png" width="300"/> 
