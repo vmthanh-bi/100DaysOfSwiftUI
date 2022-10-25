@@ -71,3 +71,9 @@ Added function in both CardView and MainView to know when the card is incorrect 
 The offset was originally made to detect the cards going left or right. When the card is pulled in a certain direction and isn't removed, it will bounce back
 in the opposite direction to the center, hence coloring the card in the opposite color from the original. To fix this, I modified the if statement
 so that the offset changes the color of the cards relative to the center rather than direction in which the card is pulled.
+
+## Screenshots
+
+<img src="Screenshots/Screenshot 1.png" width="500"/> <img src="Screenshots/Screenshot 2.png" width="500"/> 
+<img src="Screenshots/Screenshot 3.png" width="500"/> <img src="Screenshots/Screenshot 4.png" width="500"/>
+<img src="Screenshots/Screenshot 5.png" width="500"/> <img src="Screenshots/Screenshot 6.png" width="500"/> 
