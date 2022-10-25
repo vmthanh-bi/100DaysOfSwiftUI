@@ -48,3 +48,9 @@ Added a `foregroundColor` modifier to set the text color as red when the book ra
 >3. Add a new “date” attribute to the Book entity, assigning Date() to it so it gets the current date and time, then format that nicely somewhere in DetailView.
 
 Added `Date` attribute to the Book entity, so when a new book is created we set the date value to `Date()` to get the time and hour of creation. I also added to the detail view the formatted creation date.
+
+## Screenshots
+
+<img src="Screenshots/Screenshot 1.png" width="300"/> <img src="Screenshots/Screenshot 2.png" width="300"/> 
+<img src="Screenshots/Screenshot 3.png" width="300"/> <img src="Screenshots/Screenshot 4.png" width="300"/>
+<img src="Screenshots/Screenshot 5.png" width="300"/>
