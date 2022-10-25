@@ -46,3 +46,8 @@ Added a predicate `String` to the initializer, to allow the user specify which p
 >3. Modify the predicate string parameter to be an enum such as .beginsWith, then make that enum get resolved to a string inside the initializer.
 
 Added a enum of strings of each case in the `filteredList` view that can be used as a predicate, then changed the initializer from predicate `String` to the `Predicates` enum.
+
+## Screenshots
+
+<img src="Screenshots/Screenshot 1.png" width="300"/> <img src="Screenshots/Screenshot 2.png" width="300"/> 
+<img src="Screenshots/Screenshot 3.png" width="300"/>
