@@ -31,7 +31,7 @@ without a doubt not easy and is definitely a great way to comemorate all of this
 ## The Course
 
 ### Days 1 - 14: Introduction to Swift
-The first 14 days provided a gentle warm up for my SwiftUI learning as I covered the fundamentals of the Swift programming language. I worked through a selection of tutorials every day, and there was some optional extra reading afterwards I got to read through to even dig deeper.
+The first 14 days provided a gentle warm up for my SwiftUI learning as I covered the fundamentals of the Swift programming language. I worked through a selection of tutorials every day, and there was some optional extra reading afterwards I got to read through to dig even deeper.
 
 ### Day 15: Consolidation I
 I just learned a lot about Swift in only 14 days, so before I continue it's important I reflect on what you've learned so far.
