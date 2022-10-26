@@ -6,7 +6,7 @@ If you would like to try this course yourself, you can find at: https://www.hack
 ## Current Status
 🚨 Latest update: 20/10/22
 
-👨🏻‍💻 Currently on: Day 95 of 100
+👨🏻‍💻 Currently on: Day 96 of 100
 
 ## The Process
 
@@ -136,6 +136,17 @@ In these projects, I built my biggest apps yet, while also exploring more ways t
 - [Project 17](Project%2017%20-%20Flashzilla) - *Flashzilla*
 
 - [Project 18](Project%2018%20-%20LayoutAndGeometry) - *Layout and Geometry*
+
+### Days 95: Consolidation VII
+As I approach the end of our 100 days, it’s time to pause and reflect on the massive projects I’ve built, then take on a fresh app building challenge.
+
+- [Milestone Project 16-18](Milestone%20Project%206%20-%20DiceRoller) - *DiceRoller*
+
+
+### Days 96 - 99: One last project
+In this final project we cover some last tips and techniques to help you build great apps, including how to optimize for iPad.
+
+- [Project 19](Project%2019%20-%20SnowSeeker) - *SnowSeeker*
 
 ## Special thanks
 
