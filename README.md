@@ -144,7 +144,7 @@ As I approach the end of our 100 days, it’s time to pause and reflect on the m
 
 
 ### Days 96 - 99: One last project
-In this final project we cover some last tips and techniques to help you build great apps, including how to optimize for iPad.
+In this final project, I cover some last tips and techniques to help me build fuller apps, including how to optimize for iPad.
 
 - [Project 19](Project%2019%20-%20SnowSeeker) - *SnowSeeker*
 
