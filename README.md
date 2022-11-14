@@ -6,7 +6,7 @@ If you would like to try this course yourself, you can find at: https://www.hack
 ## Current Status
 🚨 Latest update: 20/10/22
 
-👨🏻‍💻 Currently on: Day 96 of 100
+👨🏻‍💻 Currently on: Day 99 of 100
 
 ## The Process
 
