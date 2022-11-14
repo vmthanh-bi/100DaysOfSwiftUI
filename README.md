@@ -4,7 +4,7 @@ This repository is dedicated to documenting my progress of the Hacking With Swif
 If you would like to try this course yourself, you can find at: https://www.hackingwithswift.com/100/swiftui
 
 ## Current Status
-🚨 Latest update: 20/10/22
+🚨 Latest update: 14/11/22
 
 👨🏻‍💻 Currently on: Day 99 of 100
 
