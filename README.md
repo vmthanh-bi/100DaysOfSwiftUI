@@ -11,7 +11,7 @@ If you would like to try this course yourself, you can find it at: https://www.h
 ![certificate](https://user-images.githubusercontent.com/68564590/211778886-613b7640-90f9-4d75-9955-311548425e9b.jpg)
 
 ## The Process
-2
+
 ### 19 Projects
 Each numbered project is taught by Paul Hudson through his videos, readings and quizes, as he slowly works through increasingly complex topics. 
 The projects are ultimately prompted with challenges left up to the students to elevate the code on their own. These challenges are optional,
