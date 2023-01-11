@@ -4,12 +4,14 @@ This repository is dedicated to documenting my progress of the Hacking With Swif
 If you would like to try this course yourself, you can find it at: https://www.hackingwithswift.com/100/swiftui
 
 ## Current Status
-🚨 Latest update: 14/11/22
+🚨 Latest update: 15/12/22
 
-👨🏻‍💻 Currently on: Day 99 of 100
+👨🏻‍💻 Currently on: Day 100 of 100
+
+![certificate](https://user-images.githubusercontent.com/68564590/211778886-613b7640-90f9-4d75-9955-311548425e9b.jpg)
 
 ## The Process
-
+2
 ### 19 Projects
 Each numbered project is taught by Paul Hudson through his videos, readings and quizes, as he slowly works through increasingly complex topics. 
 The projects are ultimately prompted with challenges left up to the students to elevate the code on their own. These challenges are optional,
