@@ -34,7 +34,7 @@ your data model.
 - Reading environment values using `@EnvironmentObject`.
 - Creating tabs with `TabView`.
 - Using Swift’s `Result` type to send back success or failure.
-- Manually publishing `ObservableObject` changes using oobjectWillChange.send()`.
+- Manually publishing `ObservableObject` changes using `objectWillChange.send()`.
 - Controlling image interpolation.
 - Adding swipe actions to list rows.
 - Placing buttons in a `ContextMenu`.
